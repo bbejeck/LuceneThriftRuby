@@ -1,0 +1,4 @@
+This project contains the sources for the Lucene - Thrift - Ruby blog.  If you want to run
+the unit test, download lucene-thrift-example.tar.gz from the downloads link.  
+Extract the tar file then execute the runSearchTest.sh script.  You will need  Java, Ruby and the 
+thrift gem installed, all other dependencies to run the test are included.
